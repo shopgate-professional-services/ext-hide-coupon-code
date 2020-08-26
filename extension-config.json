@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "id": "@shopgate-project/hide-coupon-code",
+  "components": [
+    {
+      "id": "CouponCode",
+      "type": "portals",
+      "path": "frontend/portals/CouponCode",
+      "target": "cart.item.coupon-code"
+    }
+  ],
+  "configuration": {
+  }
+}
