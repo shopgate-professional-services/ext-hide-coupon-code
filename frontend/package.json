@@ -1,7 +1,7 @@
 {
   "name": "@shopgate-project/hide-coupon-code",
   "version": "1.0.0",
-  "description": "An awesome extesion for my awesome organization",
+  "description": "Hides the coupon code in the shopping cart.",
   "license": "Apache-2.0",
   "scripts": {
     "test": "jest",
